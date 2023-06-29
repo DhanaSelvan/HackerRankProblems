@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+Tuple = divmod(a,b)
+print(a//b)
+print(a%b)
+print(Tuple)
